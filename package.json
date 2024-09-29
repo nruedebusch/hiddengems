@@ -1,0 +1,38 @@
+{
+  "name": "poimaps",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-select": "^2.1.1",
+    "@supabase/supabase-js": "^2.45.4",
+    "@types/leaflet": "^1.9.12",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "leaflet": "^1.9.4",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
+    "lucide-react": "^0.441.0",
+    "next": "14.2.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-leaflet": "^4.2.1",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "shadcn-ui": "^0.2.3",
+    "tailwindcss": "^3.4.12",
+    "typescript": "^5"
+  }
+}
